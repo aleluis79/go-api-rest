@@ -4,7 +4,7 @@
 
 ### Downloads dependencies
 
-go tidy
+go mod tidy
 
 ### Generate swagger documentation:
 
