@@ -8,7 +8,17 @@ go mod tidy
 
 ### Generate swagger documentation:
 
-swag init
+* Install swag
+
+  go install github.com/swaggo/swag/cmd/swag@latest
+
+* Add to path:
+
+  export PATH=$PATH:/home/$USER/go/bin
+
+* Create docs
+
+  swag init
 
 ### Para arrancar la aplicación correr el siguiente commando:
 
