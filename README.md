@@ -10,7 +10,7 @@ go tidy
 
 swag init
 
-#http://localhost:8080/swagger/index.html# Para arrancar la aplicación correr el siguiente commando:
+### Para arrancar la aplicación correr el siguiente commando:
 
 go run .
 
